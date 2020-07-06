@@ -1,0 +1,12 @@
+Added Net: Name=3V3_GYRO
+Added Net: Name=AD0_GYRO
+Added Net: Name=FSYNC_GYRO
+Added Net: Name=INT_GYRO
+Added Net: Name=NetC3_2
+Added Net: Name=NetD1_A
+Added Net: Name=REG_GYRO
+Added Net: Name=SCL
+Added Net: Name=SDA
+Added Net: Name=VCC
+Added Class: Name=imu-pcb
+Added Room: Name=imu-pcb
