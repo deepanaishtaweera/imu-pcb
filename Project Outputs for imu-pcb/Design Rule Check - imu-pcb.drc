@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : \\Mac\Home\Documents\Github\imu-pcb\imu-pcb.PcbDoc
-Date     : 10/07/2020
-Time     : 12:01:45
+Date     : 20/07/2020
+Time     : 16:47:32
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -28,8 +28,8 @@ Processing Rule : Hole To Hole Clearance (Gap=21.26mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=7.874mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (2.756mil < 7.874mil) Between Pad J1-S1(661.929mil,90.512mil) on Top Layer And Pad J1-1(595mil,156.26mil) on Top Layer [Top Solder] Mask Sliver [2.756mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (2.756mil < 7.874mil) Between Pad J1-S2(661.929mil,320.433mil) on Top Layer And Pad J1-6(595mil,254.685mil) on Top Layer [Top Solder] Mask Sliver [2.756mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2.756mil < 7.874mil) Between Pad J1-1(1313.071mil,150.748mil) on Top Layer And Pad J1-S1(1380mil,85mil) on Top Layer [Top Solder] Mask Sliver [2.756mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2.756mil < 7.874mil) Between Pad J1-6(1313.071mil,249.173mil) on Top Layer And Pad J1-S2(1380mil,314.921mil) on Top Layer [Top Solder] Mask Sliver [2.756mil]
 Rule Violations :2
 
 Processing Rule : Silk To Solder Mask (Clearance=5mil) (IsPad),(All)
