@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : \\Mac\Home\Documents\Github\imu-pcb\imu-pcb.PcbDoc
 Date     : 27/07/2020
-Time     : 14:49:51
+Time     : 15:58:29
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -47,4 +47,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
