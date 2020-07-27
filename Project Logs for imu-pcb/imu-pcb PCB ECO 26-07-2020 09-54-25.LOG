@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=3V3 Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap(Surface)_0.1uF New DesignItemId=0603B103K500CT
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap(Surface)_0.1uF New DesignItemId=0603B103K500CT
+Change Component Footprint: Designator=C1 Old Footprint=CAP (0805) New Footprint=CAPC1608X87N
+Change Component Footprint: Designator=C2 Old Footprint=CAP (0805) New Footprint=CAPC1608X87N
+Change Component Description : Designator=C1 Old Description=Capacitor New Description=10000pF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)
+Change Component Description : Designator=C2 Old Description=Capacitor New Description=10000pF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)
+Change component parameters: Designator = "C1"; Footprint = "CAPC1608X87N"; UniqueID = "\LKLPCUAN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=424904"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Walsin Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=424904"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "0603B103K500CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Walsin Technologies"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/0603B103K500CT/Walsin%20Technology%20Corporation/view-part/424904/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "CAPC1608X87N"; UniqueID = "\TQLXTBWN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=424904"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Walsin Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=424904"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "0603B103K500CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Walsin Technologies"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/0603B103K500CT/Walsin%20Technology%20Corporation/view-part/424904/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-10
+Added Net: Name=NetC2_1

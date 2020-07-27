@@ -1,0 +1,16 @@
+Added Component: Designator=J?(FPC_10_0.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1734592-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1734592-6/TE%20Connectivity/view-part/4788517/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=SCK Pin=J?-3
+Added Pin To Net: NetName=MOSI Pin=J?-4
+Added Pin To Net: NetName=MISO Pin=J?-5
+Added Pin To Net: NetName=CS Pin=J?-11
+Added Member To Class: ClassName=imu-pcb Member=Component J? FPC_10_0.5

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=J1-S1
+Removed Pin From Net: NetName=GND Pin=J1-S2
+Change Component DesignItemId : Designator=J1 Old DesignItemId=1734592-6 New DesignItemId=FPC_6_0.5
+Change Component Footprint: Designator=J1 Old Footprint=TE_1734592-6 New Footprint=FPC_6_0.5
+Change Component Comment : Designator=J1 Old Comment=1734592-6 New Comment=FPC_6_0.5

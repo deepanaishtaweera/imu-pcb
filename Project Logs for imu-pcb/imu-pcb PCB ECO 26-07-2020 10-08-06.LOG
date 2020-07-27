@@ -1,0 +1,18 @@
+Change Component DesignItemId : Designator=R3 Old DesignItemId=Res(Surface)_10K New DesignItemId=RES-0603
+Change Component Footprint: Designator=R3 Old Footprint=RES (C0805) New Footprint=RESC1608X50N
+Change Component Description : Designator=R3 Old Description=Resistor SMD 0805 New Description=RES SMD 10 OHM 0.1% 1/16W 0603
+Change component parameters: Designator = "R3"; Footprint = "RESC1608X50N"; UniqueID = "\RRHLDPGM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Comment_1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "8-1614350-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power_Rating"; Value = ".063 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/8-1614350-7/TE%20Connectivity/view-part/2208042/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ".1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage_Rating"; Value = "50 V"; VariantName = "[No Variations]"

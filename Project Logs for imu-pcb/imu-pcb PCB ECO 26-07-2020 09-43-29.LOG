@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=CS Pin=J1-6
+Change Component DesignItemId : Designator=J1 Old DesignItemId=FPC_6_0.5 New DesignItemId=FPC_10_0.5
+Change Component Footprint: Designator=J1 Old Footprint=FPC_6_0.5 New Footprint=FPC_10_0.5
+Change Component Comment : Designator=J1 Old Comment=FPC_6_0.5 New Comment=FPC_10_0.5
+Added Pin To Net: NetName=CS_L_1 Pin=J1-6
+Added Net: Name=CS_L_1
+Added Pin To Net: NetName=CS_L_2 Pin=J1-7
+Added Net: Name=CS_L_2
+Added Pin To Net: NetName=CS_L_3 Pin=J1-8
+Added Net: Name=CS_L_3
+Added Pin To Net: NetName=CS_L_4 Pin=J1-9
+Added Net: Name=CS_L_4
+Added Pin To Net: NetName=CS_L_5 Pin=J1-10
+Added Net: Name=CS_L_5
