@@ -1,0 +1,22 @@
+Output: imu-pcb
+Type  : Gerber
+From  : PCB Document [imu-pcb.PcbDoc]
+   Generated File[imu-pcb.GTL]
+   Generated File[imu-pcb.GBL]
+   Generated File[imu-pcb.GTO]
+   Generated File[imu-pcb.GTS]
+   Generated File[imu-pcb.GBS]
+   Generated File[imu-pcb.GBO]
+   Generated File[imu-pcb.GKO]
+   Generated File[imu-pcb.GM1]
+   Generated File[imu-pcb.GM4]
+   Generated File[imu-pcb.GM10]
+   Generated File[imu-pcb.RUL]
+   Generated File[imu-pcb.EXTREP]
+   Generated File[imu-pcb.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 10:30:35 On 31/07/2020

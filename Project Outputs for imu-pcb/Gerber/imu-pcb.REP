@@ -1,0 +1,173 @@
+*************************************************************
+FileName = imu-pcb.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : imu-pcb.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : imu-pcb.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : imu-pcb.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+    D17
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : imu-pcb.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : imu-pcb.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : imu-pcb.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+    D17
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : imu-pcb.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : imu-pcb.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : imu-pcb.GM4
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 10
+      File : imu-pcb.GM10
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+    D17
+*************************************************************
+
