@@ -1,22 +1,12 @@
 Output: imu-pcb
-Type  : Gerber
+Type  : NC Drill
 From  : PCB Document [imu-pcb.PcbDoc]
-   Generated File[imu-pcb.GTL]
-   Generated File[imu-pcb.GBL]
-   Generated File[imu-pcb.GTO]
-   Generated File[imu-pcb.GTS]
-   Generated File[imu-pcb.GBS]
-   Generated File[imu-pcb.GBO]
-   Generated File[imu-pcb.GKO]
-   Generated File[imu-pcb.GM1]
-   Generated File[imu-pcb.GM4]
-   Generated File[imu-pcb.GM10]
-   Generated File[imu-pcb.RUL]
-   Generated File[imu-pcb.EXTREP]
-   Generated File[imu-pcb.REP]
+   Generated File[imu-pcb.TXT]
+   Generated File[imu-pcb.LDP]
+   Generated File[imu-pcb.DRR]
 
 
-Files Generated   : 13
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 10:30:35 On 31/07/2020
+Finished Output Generation At 10:44:59 On 31/07/2020

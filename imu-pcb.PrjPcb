@@ -126,6 +126,74 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for imu-pcb\Design Rule Check - imu-pcb.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for imu-pcb\BOM\imu-pcb-imu-pcb.xls
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for imu-pcb\NC Drill\imu-pcb.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for imu-pcb\Gerber\imu-pcb.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for imu-pcb\Gerber\imu-pcb.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for imu-pcb\Gerber\imu-pcb.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for imu-pcb\Gerber\imu-pcb.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for imu-pcb\Gerber\imu-pcb.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for imu-pcb\Gerber\imu-pcb.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for imu-pcb\Gerber\imu-pcb.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for imu-pcb\Gerber\imu-pcb.GM10
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for imu-pcb\Gerber\imu-pcb.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for imu-pcb\Gerber\imu-pcb.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for imu-pcb\Gerber\imu-pcb.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for imu-pcb\NC Drill\imu-pcb.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for imu-pcb\Gerber\imu-pcb.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for imu-pcb\Gerber\imu-pcb.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for imu-pcb\NC Drill\imu-pcb.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
