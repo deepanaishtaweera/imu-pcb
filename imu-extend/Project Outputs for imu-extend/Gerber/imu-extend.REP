@@ -1,0 +1,152 @@
+*************************************************************
+FileName = imu-extend.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : imu-extend.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : imu-extend.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : imu-extend.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : imu-extend.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : imu-extend.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D19
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : imu-extend.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+    D12
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : imu-extend.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : imu-extend.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 10
+      File : imu-extend.GM10
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+    D12
+*************************************************************
+

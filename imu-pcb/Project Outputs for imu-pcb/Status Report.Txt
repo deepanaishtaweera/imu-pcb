@@ -1,0 +1,10 @@
+Output: imu-pcb
+Type  : Pick Place
+From  : PCB Document [imu-pcb.PcbDoc]
+   Generated File[Pick Place for imu-pcb.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:27:38 On 06/08/2020

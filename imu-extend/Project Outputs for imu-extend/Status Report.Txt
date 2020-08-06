@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [imu-extend.PcbDoc]
+   Generated File[Bill of Materials-imu-extend.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:40:26 On 06/08/2020

@@ -1,0 +1,43 @@
+Added Component: Designator=J1(FPC_10_0.5_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1734592-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1734592-6/TE%20Connectivity/view-part/4788517/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(SAMTEC-MTSW-105-07-X-D-240)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=J1-1
+Added Pin To Net: NetName=3V3 Pin=J2-1
+Added Net: Name=3V3
+Added Pin To Net: NetName=CS_1 Pin=J1-6
+Added Pin To Net: NetName=CS_1 Pin=J2-6
+Added Net: Name=CS_1
+Added Pin To Net: NetName=CS_2 Pin=J1-7
+Added Pin To Net: NetName=CS_2 Pin=J2-7
+Added Net: Name=CS_2
+Added Pin To Net: NetName=CS_3 Pin=J1-8
+Added Pin To Net: NetName=CS_3 Pin=J2-8
+Added Net: Name=CS_3
+Added Pin To Net: NetName=CS_4 Pin=J1-9
+Added Pin To Net: NetName=CS_4 Pin=J2-9
+Added Net: Name=CS_4
+Added Pin To Net: NetName=CS_5 Pin=J1-10
+Added Pin To Net: NetName=CS_5 Pin=J2-10
+Added Net: Name=CS_5
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=MISO Pin=J1-5
+Added Pin To Net: NetName=MISO Pin=J2-5
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=J1-4
+Added Pin To Net: NetName=MOSI Pin=J2-4
+Added Net: Name=MOSI
+Added Pin To Net: NetName=SCK Pin=J1-3
+Added Pin To Net: NetName=SCK Pin=J2-3
+Added Net: Name=SCK
+Added Class: Name=imu-extend
+Added Room: Name=imu-extend

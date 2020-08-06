@@ -1,0 +1,15 @@
+Altium Designer Pick and Place Locations
+\\Mac\Home\Documents\Github\imu-pcb\imu-extend\Project Outputs for imu-extend\Pick Place\Pick Place for imu-extend.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       06/08/20
+Time:       16:40
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                     Layer    Footprint                  Center-X(mil) Center-Y(mil) Rotation Description                                                                          
+J2         SAMTEC-MTSW-105-07-X-D-240J TopLayer SAMTEC-MTSW-105-07-X-D-240 410.000       310.000       90       5x2 male connector (2.54mm)                                                          
+J1         FPC_10_0.5_2                TopLayer FPC_10_0.5_2               110.000       319.157       270      10 Position FPC Connector Contacts, Bottom 0.020 (0.50mm) Surface Mount, Right Angle 
