@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=TEENSY1-GND1
+Added Pin To Net: NetName=MOSI Pin=U1-21
+Added Pin To Net: NetName=MISO Pin=U1-27
+Added Pin To Net: NetName=SCK Pin=U1-28
+Added Pin To Net: NetName=CS_5 Pin=U1-30

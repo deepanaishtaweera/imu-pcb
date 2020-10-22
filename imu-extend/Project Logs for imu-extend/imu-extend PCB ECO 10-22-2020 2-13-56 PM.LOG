@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=TEENSY1-GND2
+Change Component Designator: OldDesignator=U NewDesignator=U1

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=3V3 Pin=NodeMCU-1-3V3
+Removed Pin From Net: NetName=3V3 Pin=NodeMCU-1-3V3
+Removed Pin From Net: NetName=3V3 Pin=NodeMCU-1-3V3
+Removed Pin From Net: NetName=GND Pin=NodeMCU-1-GND
+Removed Pin From Net: NetName=GND Pin=NodeMCU-1-GND
+Removed Pin From Net: NetName=GND Pin=NodeMCU-1-GND
+Removed Pin From Net: NetName=GND Pin=NodeMCU-1-GND
+Added Pin To Net: NetName=GND Pin=TEENSY1-GND1
+Added Pin To Net: NetName=3V3 Pin=U-1
+Added Pin To Net: NetName=GND Pin=U-14

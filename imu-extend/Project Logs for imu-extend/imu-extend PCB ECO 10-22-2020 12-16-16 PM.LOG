@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=3V3 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=SCK Pin=J1-3
+Removed Pin From Net: NetName=MOSI Pin=J1-4
+Removed Pin From Net: NetName=MISO Pin=J1-5
+Removed Pin From Net: NetName=CS_1 Pin=J1-6
+Removed Pin From Net: NetName=CS_2 Pin=J1-7
+Removed Pin From Net: NetName=CS_3 Pin=J1-8
+Removed Pin From Net: NetName=CS_4 Pin=J1-9
+Removed Pin From Net: NetName=CS_5 Pin=J1-10
+Change Component Footprint: Designator=J2 Old Footprint=SAMTEC-MTSW-105-07-X-D-240 New Footprint=IDC_2.54_10
+Change Component Comment : Designator=J2 Old Comment=SAMTEC-MTSW-105-07-X-D-240J New Comment=IDC_2.54mm_10pos
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Added Component: Designator=NodeMCU-1(NodeMCU V1.0 ESP-12E)
+Added Component: Designator=TEENSY1(Teensy3.6-edgeonly)
