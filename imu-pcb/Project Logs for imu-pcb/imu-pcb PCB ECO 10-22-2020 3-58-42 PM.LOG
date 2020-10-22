@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=3V3 Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=3V3 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=SCK Pin=J1-3
+Removed Pin From Net: NetName=MOSI Pin=J1-4
+Removed Pin From Net: NetName=MISO Pin=J1-5
+Removed Pin From Net: NetName=CS_1 Pin=J1-6
+Removed Pin From Net: NetName=CS_2 Pin=J1-7
+Removed Pin From Net: NetName=CS_3 Pin=J1-8
+Removed Pin From Net: NetName=CS_4 Pin=J1-9
+Removed Pin From Net: NetName=CS_5 Pin=J1-10
+Removed Pin From Net: NetName=3V3 Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=SCK Pin=J2-3
+Removed Pin From Net: NetName=MOSI Pin=J2-4
+Removed Pin From Net: NetName=MISO Pin=J2-5
+Removed Pin From Net: NetName=CS_1 Pin=J2-6
+Removed Pin From Net: NetName=CS_2 Pin=J2-7
+Removed Pin From Net: NetName=CS_3 Pin=J2-8
+Removed Pin From Net: NetName=CS_4 Pin=J2-9
+Removed Pin From Net: NetName=CS_5 Pin=J2-10
+Removed Pin From Net: NetName=MOSI Pin=R1-1
+Removed Pin From Net: NetName=3V3 Pin=R1-2
+Removed Pin From Net: NetName=SCK Pin=R2-1
+Removed Pin From Net: NetName=3V3 Pin=R2-2
+Removed Pin From Net: NetName=3V3 Pin=R3-2
+Removed Pin From Net: NetName=3V3 Pin=U1-8
+Removed Pin From Net: NetName=MISO Pin=U1-9
+Removed Pin From Net: NetName=3V3 Pin=U1-13
+Removed Pin From Net: NetName=GND Pin=U1-18
+Removed Pin From Net: NetName=SCK Pin=U1-23
+Removed Pin From Net: NetName=MOSI Pin=U1-24
+Removed Member From Class: ClassName=imu-pcb Member=C1
+Removed Member From Class: ClassName=imu-pcb Member=C2
+Removed Member From Class: ClassName=imu-pcb Member=J1
+Removed Member From Class: ClassName=imu-pcb Member=J2
+Removed Member From Class: ClassName=imu-pcb Member=R1
+Removed Member From Class: ClassName=imu-pcb Member=R2
+Removed Member From Class: ClassName=imu-pcb Member=R3
+Removed Member From Class: ClassName=imu-pcb Member=U1
+Added Component: Designator=J?(IDC_2.54_10)
+Added Component: Designator=U?(Sparkfun_MPU9250)
+Added Pin To Net: NetName=3V3 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=SCK Pin=J?-3
+Added Pin To Net: NetName=MOSI Pin=J?-4
+Added Pin To Net: NetName=MISO Pin=J?-5
+Added Pin To Net: NetName=CS_1 Pin=J?-6
+Added Pin To Net: NetName=CS_2 Pin=J?-7
+Added Pin To Net: NetName=CS_3 Pin=J?-8
+Added Pin To Net: NetName=CS_4 Pin=J?-9
+Added Pin To Net: NetName=CS_5 Pin=J?-10
+Added Member To Class: ClassName=imu-pcb Member=Component J? IDC_2.54mm_10pos
+Added Member To Class: ClassName=imu-pcb Member=Component U? Sparkfun_MPU9250

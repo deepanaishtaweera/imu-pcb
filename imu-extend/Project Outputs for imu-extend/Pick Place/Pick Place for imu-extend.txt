@@ -4,12 +4,13 @@ Altium Designer Pick and Place Locations
 ========================================================================================================================
 File Design Information:
 
-Date:       06/08/20
-Time:       16:40
-Revision:   Not in VersionControl
+Date:       22/10/20
+Time:       15:10
+Revision:   cc2d988770acf5956a96c13ee5caae5937047325
 Variant:    No variations
 Units used: mil
 
-Designator Comment                     Layer    Footprint                  Center-X(mil) Center-Y(mil) Rotation Description                                                                          
-J2         SAMTEC-MTSW-105-07-X-D-240J TopLayer SAMTEC-MTSW-105-07-X-D-240 410.000       310.000       90       5x2 male connector (2.54mm)                                                          
-J1         FPC_10_0.5_2                TopLayer FPC_10_0.5_2               110.000       319.157       270      10 Position FPC Connector Contacts, Bottom 0.020 (0.50mm) Surface Mount, Right Angle 
+Designator Comment               Layer    Footprint                Center-X(mil) Center-Y(mil) Rotation Description                                                                                                        
+U1         ESP32-DEVKITC-32D     TopLayer MODULE_ESP32-DEVKITC-32D 620.000       1140.000      0        "- Transceiver; 802.11 b/g/n _Wi-Fi, WiFi, WLAN_, Bluetooth® Smart Ready 4.x Dual Mode For Use With ESP-WROOM-32" 
+TEENSY1    "Teensy3.6 edge only" TopLayer Teensy3.6-edgeonly       620.000       1260.000      180      ""                                                                                                                 
+J1         IDC_2.54mm_10pos      TopLayer IDC_2.54_10              610.000       2680.000      360      "5x2 male connector (2.54mm)"                                                                                      

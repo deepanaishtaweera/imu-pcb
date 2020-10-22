@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: imu-pcb.PcbDoc   06/08/2020  16:27:35
+NCDrill File Report For: imu-pcb.PcbDoc   10/22/2020  5:06:27 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,9 +7,10 @@ ASCII RoundHoles File : imu-pcb.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      10mil (0.254mm)                                           Round             20        PTH        1.92inch (48.80mm)
-T2      12mil (0.3mm)                                             Round             6         PTH        0.54inch (13.64mm)
+T1      10mil (0.254mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T2      32mil (0.8mm)                                             Round             8         PTH        0.00inch (0.00mm)
+T3      40mil (1.02mm)                                            Round             10        PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              26
+Totals                                                                              19
 
 Total Processing Time (hh:mm:ss) : 00:00:00

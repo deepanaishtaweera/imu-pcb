@@ -2,27 +2,16 @@
 FileName = imu-pcb.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : imu-pcb.GTL
-
-    Adding Layer      : Top Layer
+Generating : Mechanical 10
+      File : imu-pcb.GM10
 
     Adding Layer      : Mechanical 10
 
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 10
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
     D14
-    D15
-    D16
-    D17
-    D18
-    D19
 *************************************************************
 
 *************************************************************
@@ -37,10 +26,12 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D16
-    D17
-    D18
-    D19
+    D13
+    D14
+    D22
+    D23
+    D24
+    D25
 *************************************************************
 
 *************************************************************
@@ -53,11 +44,24 @@ Generating : Top Overlay
 
 
 Used DCodes :
-    D17
-    D20
-    D21
-    D22
-    D23
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : imu-pcb.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+    D14
 *************************************************************
 
 *************************************************************
@@ -74,15 +78,39 @@ Generating : Top Solder
 
 
 Used DCodes :
+    D14
+    D15
+    D16
     D17
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : imu-pcb.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : imu-pcb.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+    D14
 *************************************************************
 
 *************************************************************
@@ -99,50 +127,12 @@ Generating : Bottom Solder
 
 
 Used DCodes :
+    D14
+    D15
     D17
-    D30
-    D31
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : imu-pcb.GBO
-
-    Adding Layer      : Bottom Overlay
-
-    Adding Layer      : Mechanical 10
-
-
-Used DCodes :
-    D17
-    D32
-    D33
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : imu-pcb.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-    Adding Layer      : Mechanical 10
-
-
-Used DCodes :
-    D17
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : imu-pcb.GM1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 10
-
-
-Used DCodes :
-    D17
+    D18
+    D19
+    D20
 *************************************************************
 
 *************************************************************
@@ -155,19 +145,27 @@ Generating : Mechanical 4
 
 
 Used DCodes :
-    D17
+    D14
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 10
-      File : imu-pcb.GM10
+Generating : Top Layer
+      File : imu-pcb.GTL
+
+    Adding Layer      : Top Layer
 
     Adding Layer      : Mechanical 10
 
-    Adding Layer      : Mechanical 10
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D17
+    D13
+    D14
+    D21
+    D22
+    D23
+    D24
+    D25
 *************************************************************
 

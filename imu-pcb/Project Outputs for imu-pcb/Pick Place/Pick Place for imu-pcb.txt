@@ -4,18 +4,17 @@ Altium Designer Pick and Place Locations
 ========================================================================================================================
 File Design Information:
 
-Date:       06/08/20
-Time:       16:27
-Revision:   Not in VersionControl
+Date:       22/10/20
+Time:       17:06
+Revision:   ed7a437adcf01460571e862a57b7cf8fbb2c31dd
 Variant:    No variations
 Units used: mil
 
-Designator Comment      Layer    Footprint             Center-X(mil) Center-Y(mil) Rotation Description                                                                          
-U1         MPU-9250     TopLayer QFN40P300X300X105-24N 315.000       285.000       360      Accelerometer, Gyroscope, Magnetometer, 9 Axis Sensor I²C, SPI Output               
-R3         10K          TopLayer RESC1608X50N          475.001       510.002       360      RES SMD 10 OHM 0.1% 1/16W 0603                                                       
-R2         10K          TopLayer RESC1608X50N          320.000       510.000       360      RES SMD 10 OHM 0.1% 1/16W 0603                                                       
-R1         10K          TopLayer RESC1608X50N          155.000       510.000       180      RES SMD 10 OHM 0.1% 1/16W 0603                                                       
-C2         0.1uF        TopLayer CAPC1608X87N          228.406       110.000       180      10000pF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)                           
-C1         0.1uF        TopLayer CAPC1608X87N          428.166       110.000       180      10000pF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)                           
-J1         FPC_10_0.5   TopLayer FPC_10_0.5            501.500       301.787       90       10 Position FPC Connector Contacts, Bottom 0.020 (0.50mm) Surface Mount, Right Angle 
-J2         FPC_10_0.5_1 TopLayer FPC_10_0.5_1          128.000       309.158       270      10 Position FPC Connector Contacts, Bottom 0.020 (0.50mm) Surface Mount, Right Angle 
+Designator Comment                     Layer    Footprint        Center-X(mil) Center-Y(mil) Rotation Description                                                                                
+CS5        0_Ohm                       TopLayer RESC1608X50N     150.000       1020.000      180      "RES SMD 10 OHM 0.1% 1/16W 0603"                                                           
+CS4        0_Ohm                       TopLayer RESC1608X50N     300.000       1020.000      180      "RES SMD 10 OHM 0.1% 1/16W 0603"                                                           
+CS3        0_Ohm                       TopLayer RESC1608X50N     440.000       1020.000      180      "RES SMD 10 OHM 0.1% 1/16W 0603"                                                           
+CS2        0_Ohm                       TopLayer RESC1608X50N     585.000       1020.000      180      "RES SMD 10 OHM 0.1% 1/16W 0603"                                                           
+CS1        0_Ohm                       TopLayer RESC1608X50N     735.000       1020.000      180      "RES SMD 10 OHM 0.1% 1/16W 0603"                                                           
+U1         Sparkfun_MPU9250            TopLayer SPARKFUN_MPU9250 450.000       705.000       0        https://learn.sparkfun.com/tutorials/mpu-9250-hookup-guide/all#resources-and-going-further 
+J1         SAMTEC-MTSW-105-07-X-D-240J TopLayer IDC_2.54_10      460.000       255.000       360      "5x2 male connector (2.54mm)"                                                              
